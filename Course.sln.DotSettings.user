@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Candre_005CRiderProjects_005CCourse_005CLesson_002011_005Cglfwbgi_002Elib/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=48d47492_002Ddb3d_002D47f0_002Da210_002D7a89850bdf51_0023Lesson_00209/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4bd40f97_002Dc4cd_002D4edc_002Da77b_002Debbe3586d343_0023Lesson_00206/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=662771fe_002Dde66_002D4e47_002D9dbf_002D5f375be9552d_0023Lesson_00204/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=7c2abb1f_002D8a9e_002D41ec_002Dba2f_002D523144a084b8_0023Lesson_00203/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=96fc780a_002D96c0_002D43ae_002Db195_002D762f96637ec1_0023Lesson_00208/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9defbdf0_002Dc5a6_002D4891_002Dab6f_002Dffccabb68d54_0023Lesson_00207/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=baf17826_002Df1e7_002D4595_002Db2d1_002D5d4f4b8813d4_0023Lesson_00202/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=c17a0dab_002D8425_002D4baa_002Dae2d_002D40d400e9da3f_0023Lesson_002010/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=c30c7c01_002Dbcc6_002D40c7_002Da287_002De2aea2373c62_0023Lesson_00205/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

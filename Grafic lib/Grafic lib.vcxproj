@@ -168,7 +168,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson 11.cpp" />
+    <ClCompile Include="grafic lib.cpp" />
+    <ClCompile Include="Lesson11 (1).cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="glfwbgi.h" />
